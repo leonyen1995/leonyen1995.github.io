@@ -2,26 +2,26 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://wuchuanxun.github.io/
+url: https://leonyen1995.github.io/
 date_format: "ordinal"
 title: Blog
-subtitle: "志同着，不以千里为远"
-description: "吴传珣的个人博客"
-keywords: BloG, Chuanxun Wu
+subtitle: ""
+description: "人是宇宙分之一"
+keywords: Blog, Philosoophy, Art
 favicon: /Mechanical.ico
-timezone: Asia/Shanghai
+timezone: Asia/Beijing
 encoding: "utf-8"
 side_bar_repo_limit: 3
 
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Chuanxun Wu
-organization: SJTU
+author: Yan Haoqiang
+organization: Imagine
 organization_url: http://www.sjtu.edu.cn/
-github_username: wuchuanxun
-location: Shanghai, China
-email: wuchuanxun@outlook.com
+github_username: leonyen1995
+location: Beijing, China
+email: my email
 
 # ---------------- #
 #    Navigation    #
